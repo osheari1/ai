@@ -80,32 +80,3 @@ Once you've refined my Deep Research request using these principles, **double-ch
 
 * Current Prompt
 
-
-I am looking for property to purchase in Italy. I will be moving to Italy under the digital nomad visa and settling there for at least 5 years.
-
-
-* Personal Context
-My goal with this move to Italy is to move away from cities to a location in the country side that does not have all chaos of cities, while also being able to live on a much smaller budget. I would like to live in the serenity of nature while not needing to be _literally_ in the middle of nowhere.
-
-** Task
-Perform Deep Research on the locations / regions where it may be suitable to buy property based on my preferences and budget. This research should be very comprehensive and thorough, such that I can use this as actionable information to begin the search. This research will impact my quality of life in Italy and should contain contain the highest quality information possible, while not containing hallucinations or errors. Be sure to provide the reasoning behind why particular information was included in the analysis. I also understand that there is no perfect location and everywhere has trade offs. I am willing to make trade offs, as such, the research should include information that will allow me to assess the trade offs of the different locations found.
-
-
-** Research Parameters
-Parameters Below I will outline the parameters I would look at when searching for a region to live. Use this to support your research.
-
-
-- Region: south italy
-- I want to live in the country side. Relatively close access to towns or cities is preferable, but being located within 30-60 minutes of a town is acceptable.
-- Nature Topography: I am looking for regions that are not entirely flat, meaning they should at least have some change in elevation whether it be hills or mountains. I am looking for regions that have a good amount of trees- woods, forest, or simply not totally deforested. I like green. Proximity to a beach is a plus, but not super high priority.
-- I am looking for two types of properties: very cheap properties that need to be renovated (30k - 50k), and livable properties that can be lived in without renovations (30k - 60k). In both cases I plan on taking advantage of the tax rebates you get if you rennovate a property as a tax resident. I significantly prefer cheaper properties as I can focus more on the rennovation costs.
-
-
-*** Notes on Research Parameters
-You can also present locations / research on places that don't exact match my criteria, as I am also flexible. I am flexible on all of the research parameters above except for budget and living in nature. Be sure to additionally provide the reasoning why it may not fit exactly. Everything is a trade off and I am willing to make trades in the right situtation.
-
-
-
-** Final
-
-Before starting the reasearch. Ask me any questions you may have to help support the research or clarify my preferences.
